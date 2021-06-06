@@ -1,7 +1,7 @@
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, eu sou Walace Borges</h1>
  <div>
   <a href="https://github.com/rafaballerini">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=walaceborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=walaceborges&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaceborges&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
