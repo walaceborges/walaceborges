@@ -13,6 +13,5 @@
   ##
  
 <div> 
-  <a href = "mailto: walacewab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/walace-borges-247611100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoFragata&show_icons=true&hide_border=true&count_private=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFragata&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)
 </div>
