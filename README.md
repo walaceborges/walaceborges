@@ -1,6 +1,6 @@
 <h1>Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">, eu sou Walace Borges</h1>
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/walaceborges">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=walaceborges&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaceborges&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
 <div>
