@@ -7,7 +7,9 @@
 <br/>
 <br/>
 
-Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, me chamo Walace Borges, claro, não é a primeira vez que você lê meu nome aqui, já está sendo repetido no titulo do meu perfil logo acima e também ao lado esquerdo, onde você pode dar seu follow. Continuando, sou carioca e moro no Rio de Janeiro/Capital 🇧🇷, estou cursando Analise e Desenvolvimento de sistemas e recentemente fui aprovado na [Trybe](https://www.betrybe.com/), um programa de desenvolvimento web pelo qual já estou estudando no atual momento, tendo a duração de doze meses, de julho de 2021 a julho de 2022. Depois de muito tempo procurando por algo que realmente eu goste, finalmente me encontrei, estou me esforçando para me tornar um exímio profissional, tanto pelas minhas hardskilss como as softskills. Se por algum acaso essa pequena descrição sobre mim lhe despertou algum interesse, fique a vontade para verificar meus repositorios.
+Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px"> 
+<br>
+Me chamo Walace Borges. Claro, não é a primeira vez que você lê meu nome aqui: ele se repete no título do meu perfil e ali no lado esquerdo, onde você pode dar seu follow. Sou carioca e moro no Rio de Janeiro/Capital 🇧🇷. Estou no 2º período do curso de Analise e Desenvolvimento de sistemas (Unicesumar) e recentemente fui aprovado no processo seletivo do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) (Turma 15, de julho de 2021 a julho de 2022). Depois de muito tempo procurando por algo que realmente eu goste, finalmente me encontrei. Tenho me esforçano para me tornar um exímio profissional, tanto pelas minhas hard skills como as soft skills. Caso esta pequena descrição sobre mim tenha lhe despertado algum interesse ou curiosidade, fique à vontade para verificar meus repositórios e entrar em contato!
 
 ### Isso eu conto apenas aqui no meu Github:
 
