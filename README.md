@@ -13,7 +13,7 @@ Me chamo Walace Borges. Claro, não é a primeira vez que você lê meu nome aqu
 
 ### Isso eu conto apenas aqui no meu Github:
 
-- Tudo que eu uso eu coloco em dark mode
+- Tudo o que uso, coloco em dark mode
 - Sou um fã incondicional da serie fast and furious, porém, não sei dirigir como eles
 - Gosto bastante de tudo que envole temas medievais e cyberpunks. Contraditorio?
 - Codifico ouvindo LoFi :headphones:
