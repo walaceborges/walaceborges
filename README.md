@@ -11,8 +11,8 @@ Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master
 
  <div>
   <a href="https://github.com/walaceborges">
-  <img height="192em" src="https://github-readme-stats.vercel.app/api?username=walaceborges&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-  <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaceborges&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=walaceborges&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walaceborges&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Walace-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
