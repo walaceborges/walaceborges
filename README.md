@@ -32,7 +32,6 @@ Me chamo Walace Borges. Claro, não é a primeira vez que você lê meu nome aqu
   <img align="center" alt="Walace-REDUX" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img align="center" alt="Walace-DOCKER" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Walace-JEST" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img align="center" alt="Walace-TESTING-LIBRARY" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
 </div>
  
   ## 
