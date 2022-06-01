@@ -8,7 +8,8 @@
 
 <br/>
 
-Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px"> 
+<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px">  -->
+Olá!
 <br>
 Me chamo Walace Borges. Claro, não é a primeira vez que você lê meu nome aqui: ele se repete no título do meu perfil e ali no lado esquerdo, onde você pode dar seu follow. Sou carioca e moro no Rio de Janeiro/Capital 🇧🇷. Estou no 2º período do curso de Analise e Desenvolvimento de sistemas (Unicesumar) e recentemente fui aprovado no processo seletivo do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) (Turma 15, de julho de 2021 a julho de 2022). Depois de muito tempo procurando por algo que realmente eu goste, finalmente me encontrei. Tenho me esforçano para me tornar um exímio profissional, tanto pelas minhas <i>hard skills</i> como as <i>soft skills</i>. Caso esta pequena descrição sobre mim tenha lhe despertado algum interesse ou curiosidade, fique à vontade para verificar meus repositórios e entrar em contato!
 
