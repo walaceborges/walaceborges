@@ -1,7 +1,7 @@
 <!-- Title -->
 <div align="center">
   <h1 align="center">WALACE BORGES</h1>
-  <b>Student | Developer |</b>
+  <b>Software Developer</b>
 </div>
 
 <br/>
