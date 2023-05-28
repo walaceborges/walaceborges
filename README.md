@@ -10,6 +10,7 @@
 
 Olá! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="18">
 <br>
+
 Me chamo Walace Borges, um carioca apaixonado por desenvolvimento de software, vivendo na vibrante cidade do Rio de Janeiro, Brasil 🇧🇷. Depois de explorar várias carreiras, encontrei minha verdadeira paixão na tecnologia. Concluí meu segundo período de Análise e Desenvolvimento de Sistemas na Unicesumar e sou ex-aluno da [Trybe](https://www.betrybe.com/), onde aprimorei minhas habilidades em desenvolvimento web de julho de 2021 a julho de 2022.
 
 Atualmente, estou aprimorando ainda mais minhas hard e soft skills como Desenvolvedor Front-End no [Mercado Livre](https://www.mercadolivre.com.br/). Sou dedicado a me tornar um profissional excepcional, sempre buscando melhorar e aprender. Se você tiver curiosidade de conhecer mais sobre o meu trabalho, sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo.
