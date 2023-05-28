@@ -8,9 +8,11 @@
 
 <br/>
 
-Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18">
+Olá! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="18">
 <br>
-Me chamo Walace Borges. Claro, não é a primeira vez que você lê meu nome aqui: ele se repete no título do meu perfil e ali no lado esquerdo, onde você pode dar seu follow. Sou carioca e moro no Rio de Janeiro/Capital 🇧🇷. Estou no 2º período do curso de Analise e Desenvolvimento de sistemas (Unicesumar) e recentemente fui aprovado no processo seletivo do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/) (Turma 15, de julho de 2021 a julho de 2022). Depois de muito tempo procurando por algo que realmente eu goste, finalmente me encontrei. Tenho me esforçano para me tornar um exímio profissional, tanto pelas minhas <i>hard skills</i> como as <i>soft skills</i>. Caso esta pequena descrição sobre mim tenha lhe despertado algum interesse ou curiosidade, fique à vontade para verificar meus repositórios e entrar em contato!
+Me chamo Walace Borges, um carioca apaixonado por desenvolvimento de software, vivendo na vibrante cidade do Rio de Janeiro, Brasil 🇧🇷. Depois de explorar várias carreiras, encontrei minha verdadeira paixão na tecnologia. Concluí meu segundo período de Análise e Desenvolvimento de Sistemas na Unicesumar e sou ex-aluno da [Trybe](https://www.betrybe.com/), onde aprimorei minhas habilidades em desenvolvimento web de julho de 2021 a julho de 2022.
+
+Atualmente, estou aprimorando ainda mais minhas hard e soft skills como Desenvolvedor Front-End no [Mercado Livre](https://www.mercadolivre.com.br/). Sou dedicado a me tornar um profissional excepcional, sempre buscando melhorar e aprender. Se você tiver curiosidade de conhecer mais sobre o meu trabalho, sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo.
 
 ### Isso eu conto apenas aqui no meu Github:
 
